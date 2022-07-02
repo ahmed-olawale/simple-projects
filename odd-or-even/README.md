@@ -3,7 +3,7 @@
 ### This program accepts input as numbers (integers) 
 ### from the user and checks if it is odd or even number
 
-## Algorith:
+## Algorithm:
 1.  Ask user for input
 2.  Set a condition to restrict user input to numbers betweeen 1-1000
 3.  Set a condition to check for even or odd numbers
